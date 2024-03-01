@@ -6,5 +6,3 @@ I'm Joshua from Missouri, and I do content on Computer Coding & Programming. I r
 ## Skills and Experience
 * 👢 Bootstrap
 * 💻 HTML, CSS, JS
-
-- 🔭 I’m currently working on this page. 
