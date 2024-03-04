@@ -6,3 +6,4 @@ I'm Joshua from Missouri, and I do content on Computer Coding & Programming. I r
 ## Skills and Experience
 * 👢 Bootstrap
 * 💻 HTML, CSS, JS
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuaButrum)](https://github.com/JoshuaButrum/github-readme-stats)
